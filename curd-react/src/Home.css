@@ -1,0 +1,137 @@
+/* ===== Reset ===== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* ===== Page ===== */
+.home-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f4f3f5;
+  padding: 2rem;
+  font-family: "Segoe UI", system-ui, sans-serif;
+}
+
+/* ===== Center card ===== */
+.home-card {
+  background: #ffffff;
+  border: 1px solid #e5e5e2;
+  border-radius: 16px;
+  padding: 3rem 2.5rem;
+  width: 100%;
+  max-width: 480px;
+  text-align: center;
+}
+
+/* ===== Logo mark ===== */
+.home-logo {
+  width: 52px;
+  height: 52px;
+  border-radius: 14px;
+  background: #3c3489;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 1.5rem;
+}
+
+.home-logo svg {
+  width: 26px;
+  height: 26px;
+  color: #fff;
+  stroke: #fff;
+  fill: none;
+}
+
+/* ===== Heading ===== */
+.home-card h1 {
+  font-size: 22px;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin-bottom: 0.5rem;
+  letter-spacing: -0.01em;
+}
+
+/* ===== Subtitle ===== */
+.home-card p {
+  font-size: 14px;
+  color: #6b6b6b;
+  line-height: 1.65;
+  margin-bottom: 2rem;
+}
+
+/* ===== Buttons ===== */
+.button-group {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.home-btn,
+.view-btn {
+  background: #534ab7;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 22px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.15s;
+}
+
+.home-btn:hover,
+.view-btn:hover {
+  background: #3c3489;
+  transform: translateY(-1px);
+}
+
+.home-btn:active,
+.view-btn:active {
+  background: #26215c;
+  transform: translateY(0);
+}
+
+/* ===== Stack badges ===== */
+.stack-badges {
+  display: flex;
+  gap: 6px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 1.75rem;
+}
+
+.badge {
+  font-size: 12px;
+  font-weight: 700;
+  padding: 5px 13px;
+  border-radius: 20px;
+  background: #534ab7;
+  color: #ffffff;
+  letter-spacing: 0.01em;
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 480px) {
+  .home-card {
+    padding: 2rem 1.5rem;
+  }
+
+  .home-card h1 {
+    font-size: 20px;
+  }
+
+  .button-group {
+    flex-direction: column;
+  }
+
+  .home-btn,
+  .view-btn {
+    width: 100%;
+  }
+}
