@@ -215,9 +215,9 @@ MySQL Database
 
 Java Full Stack Developer
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
-- Portfolio: https://your-portfolio-link.com
+- GitHub: [https://github.com/your-username](https://github.com/Sourav1skm)
+- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sourav-mandal-aps2022/)
+- Portfolio: [https://your-portfolio-link.com](https://myportfolio-2208.netlify.app/)
 
 ---
 
