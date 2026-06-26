@@ -142,27 +142,21 @@ http://localhost:8083
 <img width="2876" height="1561" alt="Screenshot 2026-06-26 161534" src="https://github.com/user-attachments/assets/0f93763b-f61e-4802-b5f5-fa8510bab34f" />
 
 
-```
-images/home.png
-```
+
 
 ### ➕ Add Employee
 
 <img width="2878" height="1453" alt="Screenshot 2026-06-26 161439" src="https://github.com/user-attachments/assets/81a6559f-77b9-464e-a829-36089ea4de7d" />
 
 
-```
-images/add-employee.png
-```
+
 
 ### 📋 Employee List
 
 <img width="2842" height="1461" alt="Screenshot 2026-06-26 161421" src="https://github.com/user-attachments/assets/22117919-2374-40e5-ae24-55c778089e8b" />
 
 
-```
-images/view-employees.png
-```
+
 
 ---
 
