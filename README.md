@@ -1,4 +1,5 @@
 # 👨‍💼 Employee Management System
+<img width="363" height="73" alt="Screenshot 2026-07-10 190555" src="https://github.com/user-attachments/assets/57df82ab-7fcb-4ece-b5ee-815f5c0b2c36" />
 
 A Full Stack Employee Management System built using **React.js**, **Spring Boot**, **Hibernate (JPA)**, and **MySQL**. This application allows users to manage employee records with complete CRUD functionality through a modern and responsive interface.
 
