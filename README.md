@@ -1,11 +1,5 @@
 # 👨‍💼 Employee Management System
 
-<p align="center">
-  <a href="https://myportfolio-2208.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit-success?style=for-the-badge" />
-  </a>
-</p>
-
 A Full Stack Employee Management System built using **React.js**, **Spring Boot**, **Hibernate (JPA)**, and **MySQL**. This application allows users to manage employee records with complete CRUD functionality through a modern and responsive interface.
 
 ---
